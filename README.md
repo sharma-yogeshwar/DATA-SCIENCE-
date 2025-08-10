@@ -5,7 +5,7 @@ The notebook demonstrates basic Markdown formatting, Python code execution, and 
 
 ## 📂 Files in this repository
 - `DataScienceEcosystem.ipynb` — Jupyter Notebook containing all exercises.
-- `screenshots/` — Folder containing step-by-step screenshots of the notebook.
+- `PROJECTS/` — Folder containing step-by-step screenshots of the notebook.
 
 ## 📸 Screenshots
 The screenshots follow the naming convention given in the assignment:
