@@ -13,12 +13,27 @@ The screenshots follow the naming convention given in the assignment:
 ![Notebook Screenshot](FIRST/TITLE.png)
 
 2. `INTRO.png` — Introduction cell  
+![Notebook Screenshot](FIRST/INTRO.png)
+
 3. `LANGUAGES.png` — Popular languages cell  
+![Notebook Screenshot](FIRST/LANGUAGES.png)
+
 4. `LIBRARY.png` — Library cell  
-5. `TOOLS.png` — Data Science Tools table  
-6. `ARITH.png` — Arithmetic examples intro  
+![Notebook Screenshot](FIRST/LIBRARY.png)
+
+5. `TOOLS.png` — Data Science Tools table
+![Notebook Screenshot](FIRST/TOOLS.png)
+  
+6. `ARITH.png` — Arithmetic examples intro
+![Notebook Screenshot](FIRST/ARITH.png)
+  
 7. `OBJECTIVES.png` — Objectives list  
+![Notebook Screenshot](FIRST/OBJECTIVES.png)
+
 8. `END.png` — END
+![Notebook Screenshot](FIRST/END.png)
+
+
 
    
 
