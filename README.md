@@ -13,10 +13,10 @@ The screenshots follow the naming convention given in the assignment:
 1. First page of the notebook  
 ![Notebook Screenshot](FIRST/NOTEBOOK.png)
 
-2. Notebook title (H1) 
+2. Notebook title 
 ![Title Screenshot](FIRST/TITLE.png)
  
-3. `INTRO.png` — Introduction cell  
+3. Introduction cell  
 ![Intro Screenshot](FIRST/INTRO.png)
 
 4. Popular languages cell
