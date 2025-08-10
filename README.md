@@ -18,6 +18,10 @@ The screenshots follow the naming convention given in the assignment:
 7. `OBJECTIVES.png` — Objectives list  
 8. `END.png` — END
 
+   ![Notebook Screenshot](FIRST/1-notebook.png)
+   
+
+
 ## 🚀 How to view
 1. Open the notebook directly in GitHub.
 2. Or download and open in **Jupyter Notebook**.
