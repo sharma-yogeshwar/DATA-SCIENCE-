@@ -31,10 +31,10 @@ The screenshots follow the naming convention given in the assignment:
 ![Arithmetic Introduction Screenshot](FIRST/ARITH.png)
 
 8. `MULTIPLICATION AND ADDITION.png` — Multiply & add example  
-![Multiply and Add Screenshot](FIRST/MULTIPLICATION AND ADDITION.png)
+![Multiply and Add Screenshot](FIRST/MULTIPLICATIONANDADDITION.png)
 
 9. `MINUTES TO HOURS.png` — Minutes to hours example  
-![Minutes to Hours Screenshot](FIRST/MINUTES TO HOURS.png)
+![Minutes to Hours Screenshot](FIRST/MINUTESTOHOURS.png)
 
 10. `OBJECTIVES.png` — Objectives list  
 ![Objectives Screenshot](FIRST/OBJECTIVES.png)
