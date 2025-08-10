@@ -9,7 +9,9 @@ The notebook demonstrates basic Markdown formatting, Python code execution, and 
 
 ## 📸 Screenshots
 The screenshots follow the naming convention given in the assignment:
-1. `TITLE.png` — Notebook title (H1)  
+1. `TITLE.png` — Notebook title (H1)     
+![Notebook Screenshot](FIRST/TITLE.png)
+
 2. `INTRO.png` — Introduction cell  
 3. `LANGUAGES.png` — Popular languages cell  
 4. `LIBRARY.png` — Library cell  
@@ -18,7 +20,6 @@ The screenshots follow the naming convention given in the assignment:
 7. `OBJECTIVES.png` — Objectives list  
 8. `END.png` — END
 
-   ![Notebook Screenshot](FIRST/1-notebook.png)
    
 
 
