@@ -3,11 +3,11 @@
 This repository contains the  assignment for the **_IBM Data Science_** course.  
 The notebook demonstrates basic Markdown formatting, Python code execution, and GitHub integration.
 
-## 📂 Files in this repository
+##  Files in this repository
 - `DataScienceEcosystem.ipynb` — Jupyter Notebook containing all exercises.
 - `FIRST/` — Folder containing step-by-step screenshots of the notebook.
 
-## 📸 Screenshots
+##  Screenshots
 The screenshots follow the naming convention given in the assignment:
 1. `NOTEBOOK.png` — First page of the notebook  
 ![Notebook Screenshot](FIRST/NOTEBOOK.png)
@@ -43,9 +43,9 @@ The screenshots follow the naming convention given in the assignment:
 ![Author Namr Screenshot](FIRST/AUTHOR.png)
 
 
-## 🚀 How to view
+##  How to view
 1. Open the notebook directly in GitHub.
 2. Or download and open in **Jupyter Notebook**.
 
-## 👤 Author
+##  Author
 **Yogeshwar Sharma**
